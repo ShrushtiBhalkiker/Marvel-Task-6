@@ -1,0 +1,5 @@
+ last|grep Mon(word to be searched)>filename(file100.txt)
+mkdir logs 
+mv file100.txt /home/username/logs
+tar cvf filename.tar filename 
+gzip -v filename.tar.gz
